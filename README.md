@@ -200,4 +200,4 @@ This repository serves as the official landing page for NAPS2. The software is d
 **Get the most recent version of NAPS2 today!**
 
 ---
-**Last updated:** 2026-11-07 15:28:13 UTC
+**Last updated:** 2026-11-07 19:55:00 UTC
