@@ -198,3 +198,6 @@ This repository serves as the official landing page for NAPS2. The software is d
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of NAPS2 today!**
+
+---
+**Last updated:** 2026-11-07 01:39:53 UTC
